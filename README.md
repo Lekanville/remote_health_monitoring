@@ -69,4 +69,5 @@ If you encounter any other bug, please report it in the bug section
 
 ## Citation
 If you find our work useful, please cite -
+
 Ranti FAMUTIMI, Olalekan AWONIRAN, Olufemi OYELAMI, O. OLABIYI, Olumide ADELEKE (2024). Remote Vital Signs Monitoring Using Smart Devices: Feasibility, Accuracy, and Implications for Health Status Prediction. Virtual Reality & Intelligent Hardware
